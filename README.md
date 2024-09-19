@@ -1,0 +1,5 @@
+- 👋 Hi, I’m hossien zarie
+- 🏛️ well im curently student at persian golf university
+- 👀 im intersted in machine learning and backend developer
+- 🌱 I’m currently learning deep learning with pytourch and fastapi
+- 📫 How to reach me message me on telegram with @HossienZR110000 
